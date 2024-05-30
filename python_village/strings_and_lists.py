@@ -1,4 +1,3 @@
-#install numpy
 from math import floor
 
 string  = input()
