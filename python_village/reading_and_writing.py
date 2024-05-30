@@ -8,5 +8,5 @@ for line in lines:
 
 	index += 1
 
-output_file = open('../resources/reading_and_writing_output', 'w')
+output_file = open('../resources/reading_and_writing_output.txt', 'w')
 output_file.write(output_text)
